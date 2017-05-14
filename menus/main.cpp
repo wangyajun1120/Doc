@@ -58,6 +58,6 @@ int main( int argc, char **argv )
         window = new QMenus();
         window->show();
     }
-
+//test
     return a.exec();
 }
